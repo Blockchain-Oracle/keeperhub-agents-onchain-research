@@ -23,6 +23,7 @@ Event facts can change. Always refresh the official sources before acting.
 | [`docs/CONTEXT_DOSSIER.md`](docs/CONTEXT_DOSSIER.md) | Complete event, technical, source, market, competitor, risk, and eligibility audit |
 | [`prompts/MASTER_AGENT_PROMPT.md`](prompts/MASTER_AGENT_PROMPT.md) | Copy-paste prompt that tells an autonomous agent how to work through the hackathon end to end |
 | [`docs/DECISION_AND_EXECUTION_GATES.md`](docs/DECISION_AND_EXECUTION_GATES.md) | Compact stage gates that prevent premature ideation and unsafe writes |
+| [`docs/SAFETY_OVERLAP_AUDIT.md`](docs/SAFETY_OVERLAP_AUDIT.md) | Checks which spending, allowlist, approval, Safe, and wallet controls KeeperHub already provides—and rejects a generic duplicate harness |
 | [`docs/OPEN_QUESTIONS.md`](docs/OPEN_QUESTIONS.md) | Unresolved organizer and access questions |
 | [`AGENTS.md`](AGENTS.md) | Repository-level operating instructions for coding/research agents |
 
