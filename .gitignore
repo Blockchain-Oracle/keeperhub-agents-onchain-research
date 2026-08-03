@@ -1,0 +1,26 @@
+# Generated and sensitive files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.log
+node_modules/
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+coverage/
+dist/
+build/
+
+# Wallet and agent credentials
+.keeperhub/
+wallet.json
+safety.json
+
+# OS/editor
+.DS_Store
+.idea/
+.vscode/
